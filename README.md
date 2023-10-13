@@ -30,8 +30,8 @@ Além dos cursos, criei conteúdo e artigos valiosos sobre ciência de dados e a
 - [Lemmatization vs. stemming: quando usar cada uma?](https://www.alura.com.br/artigos/lemmatization-vs-stemming-quando-usar-cada-uma)
 - [NLTK vs. SpaCy](https://www.alura.com.br/artigos/nltk-vs-spacy)
 - [Processamento de Linguagem Natural – Hipsters Ponto Tech #291](https://www.hipsters.tech/processamento-de-linguagem-natural-hipsters-ponto-tech-291)
-- Spark: RDD (ALURA+)
-- GitHub no seu projeto de Data Science (ALURA+)
+- Spark: RDD
+- GitHub no seu projeto de Data Science
 
 ## Contato
 
