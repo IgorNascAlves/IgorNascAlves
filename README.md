@@ -10,15 +10,15 @@ Sou um instrutor em tempo integral de ciência de dados e aprendizado de máquin
 Aqui estão alguns dos cursos que ministrei:
 
 - Data Science aplicado em finanças
-- Machine Learning com Oracle ADS: produtividade na criação de modelos
-- Spark: criando modelos de classificação
-- Spark: sistema de recomendação
-- Apache Airflow: extração de dados
-- Apache Airflow: transformação de dados com Spark
-- CD4ML: Entrega Contínua para Machine Learning
-- Databricks: criando um sistema de recomendação
-- Power BI: aprofundando na linguagem DAX
-
+- [Machine Learning com Oracle ADS: produtividade na criação de modelos](https://www.alura.com.br/curso-online-machine-learning-oracle-ads-criacao-modelos)
+- [Spark: criando modelos de classificação](https://www.alura.com.br/curso-online-spark-modelos-classificacao)
+- [Spark: sistema de recomendação](https://www.alura.com.br/curso-online-spark-sistema-recomendacao)
+- [Apache Airflow: extração de dados](https://www.alura.com.br/curso-online-apache-airflow-extracao-dados)
+- [Apache Airflow: transformação de dados com Spark](https://www.alura.com.br/curso-online-apache-airflow-transformacao-dados-spark)
+- [CD4ML: Entrega Contínua para Machine Learning](https://www.alura.com.br/curso-online-cd4ml-entrega-continua-machine-learning)
+- [Databricks: criando um sistema de recomendação](https://www.alura.com.br/curso-online-databricks-criando-sistema-recomendacao)
+- [Power BI: aprofundando na linguagem DAX](https://www.alura.com.br/curso-online-power-bi-aprofundando-linguagem-dax)
+- Pipeline de Dados: Combinando Python e orientação a objeto (EM BREVE)
 ## Conteúdo Adicional
 
 Além dos cursos, criei conteúdo e artigos valiosos sobre ciência de dados e aprendizado de máquina. Aqui estão alguns dos meus artigos em destaque:
