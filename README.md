@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue)]([https://www.linkedin.com/in/seu-linkedin-perfil/](https://www.linkedin.com/in/igor-nascimento-alves/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue)](https://www.linkedin.com/in/igor-nascimento-alves/)
 [![Email](https://img.shields.io/badge/Email-Contato-red)](mailto:igor.nascimento.flipe@gmail.om)
 
 ## Sobre Mim
@@ -59,5 +59,5 @@ Estes projetos refletem minha experiência em diversas áreas, desde ciência de
 
 ## Contato
 
-Sinta-se à vontade para se conectar comigo no [LinkedIn](https://www.linkedin.com/in/seu-linkedin-perfil/) ou por [e-mail](mailto:seuemail@exemplo.com) para dúvidas ou colaborações.
+Sinta-se à vontade para se conectar comigo no [Linkedin](https://www.linkedin.com/in/igor-nascimento-alves/) ou por [e-mail](mailto:igor.nascimento.flipe@gmail.com) para dúvidas ou colaborações.
 
