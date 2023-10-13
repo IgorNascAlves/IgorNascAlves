@@ -24,7 +24,7 @@ Aqui estão alguns dos cursos que ministrei:
 Além dos cursos, criei conteúdo e artigos valiosos sobre ciência de dados e aprendizado de máquina. Aqui estão alguns dos meus artigos em destaque:
 
 - [Power BI: contexto de linha e de filtro](https://www.alura.com.br/artigos/power-bi-contexto-linha-filtro)
-- [Data Science em <T>](https://www.alura.com.br/artigos/data-science-em-t)
+- [Data Science em T](https://www.alura.com.br/artigos/data-science-em-t)
 - [Iniciando um projeto Spark no Google Colab](https://www.alura.com.br/artigos/iniciando-projeto-spark-no-colab)
 - [Otimização de hiperparâmetros](https://www.alura.com.br/artigos/otimizacao-de-parametros)
 - [Lemmatization vs. stemming: quando usar cada uma?](https://www.alura.com.br/artigos/lemmatization-vs-stemming-quando-usar-cada-uma)
@@ -32,8 +32,6 @@ Além dos cursos, criei conteúdo e artigos valiosos sobre ciência de dados e a
 - [Processamento de Linguagem Natural – Hipsters Ponto Tech #291](https://www.hipsters.tech/processamento-de-linguagem-natural-hipsters-ponto-tech-291)
 - Spark: RDD
 - GitHub no seu projeto de Data Science
-
-Você deseja incluir uma seção de projetos em seu perfil? Se sim, você já forneceu informações sobre vários projetos nos quais trabalhou. Aqui está uma seção que você pode adicionar ao seu perfil para destacar esses projetos:
 
 ## Projetos
 
