@@ -33,6 +33,32 @@ Além dos cursos, criei conteúdo e artigos valiosos sobre ciência de dados e a
 - Spark: RDD
 - GitHub no seu projeto de Data Science
 
+Você deseja incluir uma seção de projetos em seu perfil? Se sim, você já forneceu informações sobre vários projetos nos quais trabalhou. Aqui está uma seção que você pode adicionar ao seu perfil para destacar esses projetos:
+
+## Projetos
+
+Aqui estão alguns dos projetos em que trabalhei:
+
+1. [Site de Web Scraping](https://github.com/IgorNascAlves/site-web-scraping-)  
+   Um projeto de site fictício criado para ser usado nos cursos, composto por duas páginas e duas APIs, implementado com tecnologias Python e Docker.
+
+2. [Bot Contador de Dúvidas Respondidas no Fórum](https://github.com/IgorNascAlves/ig-11)  
+   Desenvolvi um bot que contava as dúvidas respondidas no fórum e forneceu suporte ao time de monitores por um longo período.
+
+3. [HD Virtual](https://github.com/IgorNascAlves/HD-virtual)  
+   Um projeto universitário desafiador que envolve a criação de um prompt de comando e um disco rígido virtual.
+
+4. [Avaliação de Crédito](https://github.com/IgorNascAlves/Avaliacao_Credito)  
+   Este projeto de curso combinou Data Science e Engenharia de Machine Learning, explorando a tecnologia Streamlit.
+
+5. [Pipeline ELT](https://github.com/IgorNascAlves/pipeline_ELT)  
+   Um projeto de engenharia de dados que utilizou Spark e Apache Airflow para a extração e transformação de dados.
+
+6. [Projeto Ghanor](https://github.com/IgorNascAlves/projeto_ghanor)  
+   Um projeto pessoal multidisciplinar que envolveu extração de dados, transformação de dados e análise, utilizando Python, Airflow, Spark, Flask e PowerBI.
+
+Estes projetos refletem minha experiência em diversas áreas, desde ciência de dados até engenharia de dados e desenvolvimento. Se você quiser saber mais sobre algum desses projetos ou colaborar em futuros projetos, sinta-se à vontade para entrar em contato comigo.
+
 ## Contato
 
 Sinta-se à vontade para se conectar comigo no [LinkedIn](https://www.linkedin.com/in/seu-linkedin-perfil/) ou por [e-mail](mailto:seuemail@exemplo.com) para dúvidas ou colaborações.
