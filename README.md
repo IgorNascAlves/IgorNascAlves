@@ -1,5 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue)](https://www.linkedin.com/in/igor-nascimento-alves/)
-[![Email](https://img.shields.io/badge/Email-Contato-red)](mailto:igor.nascimento.flipe@gmail.om)
+[![Email](https://img.shields.io/badge/Email-Contato-red)](mailto:igor.nascimento.flipe@gmail.com)
 
 ## Sobre Mim
 
