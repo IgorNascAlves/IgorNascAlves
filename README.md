@@ -37,8 +37,8 @@ Além dos cursos, criei conteúdo e artigos valiosos sobre ciência de dados e a
 
 Aqui estão alguns dos projetos em que trabalhei:
 
-1. [Site de Web Scraping](https://github.com/IgorNascAlves/site-web-scraping-)  
-   Um projeto de site fictício criado para ser usado nos cursos, composto por duas páginas e duas APIs, implementado com tecnologias Python e Docker.
+1. [Projeto Ghanor](https://github.com/IgorNascAlves/projeto_ghanor)  
+   Um projeto pessoal multidisciplinar que envolveu extração de dados, transformação de dados e análise, utilizando Python, Airflow, Spark, Flask e PowerBI.
 
 2. [Bot Contador de Dúvidas Respondidas no Fórum](https://github.com/IgorNascAlves/ig-11)  
    Desenvolvi um bot que contava as dúvidas respondidas no fórum e forneceu suporte ao time de monitores por um longo período.
@@ -52,8 +52,8 @@ Aqui estão alguns dos projetos em que trabalhei:
 5. [Pipeline ELT](https://github.com/IgorNascAlves/pipeline_ELT)  
    Um projeto de engenharia de dados que utilizou Spark e Apache Airflow para a extração e transformação de dados.
 
-6. [Projeto Ghanor](https://github.com/IgorNascAlves/projeto_ghanor)  
-   Um projeto pessoal multidisciplinar que envolveu extração de dados, transformação de dados e análise, utilizando Python, Airflow, Spark, Flask e PowerBI.
+6. [Site de Web Scraping](https://github.com/IgorNascAlves/site-web-scraping-)  
+   Um projeto de site fictício criado para ser usado nos cursos, composto por duas páginas e duas APIs, implementado com tecnologias Python e Docker.
 
 Estes projetos refletem minha experiência em diversas áreas, desde ciência de dados até engenharia de dados e desenvolvimento. Se você quiser saber mais sobre algum desses projetos ou colaborar em futuros projetos, sinta-se à vontade para entrar em contato comigo.
 
