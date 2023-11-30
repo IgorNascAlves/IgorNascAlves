@@ -18,7 +18,7 @@ Aqui estão alguns dos cursos que ministrei:
 - [CD4ML: Entrega Contínua para Machine Learning](https://www.alura.com.br/curso-online-cd4ml-entrega-continua-machine-learning)
 - [Databricks: criando um sistema de recomendação](https://www.alura.com.br/curso-online-databricks-criando-sistema-recomendacao)
 - [Power BI: aprofundando na linguagem DAX](https://www.alura.com.br/curso-online-power-bi-aprofundando-linguagem-dax)
-- Pipeline de Dados: Combinando Python e orientação a objeto (EM BREVE)
+- [Pipeline de Dados: Combinando Python e orientação a objeto](https://www.alura.com.br/curso-online-pipeline-dados-combinando-python-orientacao-objeto)
 ## Conteúdo Adicional
 
 Além dos cursos, criei conteúdo e artigos valiosos sobre ciência de dados e aprendizado de máquina. Aqui estão alguns dos meus artigos em destaque:
