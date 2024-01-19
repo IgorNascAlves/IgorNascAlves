@@ -3,7 +3,7 @@
 
 ## Sobre Mim
 
-Sou um instrutor em tempo integral de ciência de dados e aprendizado de máquina com mais de 2 anos de experiência na Alura. Minha paixão é educar e capacitar indivíduos no campo da ciência de dados e aprendizado de máquina. Ensinei uma ampla variedade de cursos abrangendo tópicos como ciência de dados aplicada em finanças, aprendizado de máquina, Spark, Apache Airflow, CD4ML, Databricks, Power BI e muito mais.
+Sou um instrutor em tempo integral de ciência de dados e aprendizado de máquina com mais de 4 anos de experiência na Alura. Minha paixão é educar e capacitar indivíduos no campo da ciência de dados e aprendizado de máquina. Ensinei uma ampla variedade de cursos abrangendo tópicos como ciência de dados aplicada em finanças, aprendizado de máquina, Spark, Apache Airflow, CD4ML, Databricks, Power BI e muito mais.
 
 ## Cursos Ministrados
 
