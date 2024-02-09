@@ -19,6 +19,8 @@ Aqui estão alguns dos cursos que ministrei:
 - [Databricks: criando um sistema de recomendação](https://www.alura.com.br/curso-online-databricks-criando-sistema-recomendacao)
 - [Power BI: aprofundando na linguagem DAX](https://www.alura.com.br/curso-online-power-bi-aprofundando-linguagem-dax)
 - [Pipeline de Dados: Combinando Python e orientação a objeto](https://www.alura.com.br/curso-online-pipeline-dados-combinando-python-orientacao-objeto)
+- [SQLite online: análise de dados com SQL](https://cursos.alura.com.br/course/sqlite-online-analise-dados-sql)
+  
 ## Conteúdo Adicional
 
 Além dos cursos, criei conteúdo e artigos valiosos sobre ciência de dados e aprendizado de máquina. Aqui estão alguns dos meus artigos em destaque:
